@@ -1,0 +1,4 @@
+sherpa-onnx>=1.12,<2
+onnxruntime>=1.23
+numpy>=1.26
+pypinyin>=0.53
